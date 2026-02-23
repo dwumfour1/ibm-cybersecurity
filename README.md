@@ -11,8 +11,8 @@ This repository documents hands-on labs and modules completed as part of the IBM
 ## Microcredential 1: Governance, Risk, Compliance, and Data Privacy
 Microcredential 1 consists of 3 modules:
 
-1. **Data and Privacy** – `micro1-data-privacy.md`
-2. **Governance, Risk, and Compliance** – `micro1-governance-risk-compliance.md`
-3. **Evaluate an Organization’s Data Security Posture** – `micro1-evaluate-data-security.md`
+1. **Data and Privacy** – `micro1.1-data-privacy.md`
+2. **Governance, Risk, and Compliance** – `micro1.2-governance-risk-compliance.md`
+3. **Evaluate an Organization’s Data Security Posture** – `micro1.3-evaluate-data-security.md`
 
 > As I progress, I will add more microcredentials with the same structure.
