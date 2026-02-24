@@ -1,29 +1,25 @@
 # IBM SkillsBuild Cybersecurity Labs
 
-This repository documents hands-on labs and modules completed as part of the IBM SkillsBuild Cybersecurity Certificate. Each file includes learning objectives, lessons covered, key takeaways, and reflections.
+This repository documents my hands-on learning for the IBM SkillsBuild Cybersecurity Certificate. Each microcredential is organized into folders with guided files, reflecting my understanding, practical exercises, and capstone projects.
 
-## Goals
-- Build foundational cybersecurity knowledge
-- Practice real-world lab exercises
-- Develop technical documentation skills
-- Showcase applied learning in a structured way
+---
 
-## Microcredential 1: Governance, Risk, Compliance, and Data Privacy
-Microcredential 1 consists of 3 modules:
-
-1. **Data and Privacy** – `micro1.1-data-privacy.md`
-2. **Governance, Risk, and Compliance** – `micro1.2-governance-risk-compliance.md`
-3. **Evaluate an Organization’s Data Security Posture** – `micro1.3-evaluate-data-security.md`
-
-> ✅ Microcredential 1 Complete
+## Microcredential 1: Data & Privacy
+- [Part 1: Data & Privacy](Microcredential_1_Data_Privacy/micro1.1-data-privacy.md)
+- [Part 2: Governance, Risk, Compliance](Microcredential_1_Data_Privacy/micro1.2-governance-risk-compliance.md)
+- [Part 3: Evaluate Data Security Posture](Microcredential_1_Data_Privacy/micro1.3-evaluate-data-security-posture.md)
 
 ## Microcredential 2: Vulnerability Management
-Microcredential 2 consists of 3 modules:
+- [Part 1: Threats and Vulnerabilities](Microcredential_2_Vulnerability_Management/micro2.1-threats-and-vulnerabilities.md)
+- [Part 2: Vulnerability Management](Microcredential_2_Vulnerability_Management/micro2.2-vulnerability-management.md)
+- [Part 3: Impact Analysis & Mitigation](Microcredential_2_Vulnerability_Management/micro2.3-impact-analysis.md)
 
-1. **Threats and Vulnerabilities** – `micro2.1-threats-and-vulnerabilities.md` *(in progress)*  
-2. **Vulnerability Management** – `micro2.2-vulnerability-management.md` *(in progress)*  
-3. **Perform an Impact Analysis to Address Vulnerabilities** – `micro2.3-impact-analysis.md` *(in progress)*
+## Microcredential 3: System & Network Security
+- Coming soon…
 
-> Microcredential 2 is currently in progress
-> 
-> As I progress, I will add more microcredentials with the same structure.
+---
+
+### How to Navigate
+1. Open the folder for the microcredential you want.  
+2. Start with the first file (`microX.1`) and continue sequentially.  
+3. Each file contains learning objectives, lessons, key points, and reflections.
