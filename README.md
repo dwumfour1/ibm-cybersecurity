@@ -20,6 +20,27 @@ This repository documents my hands-on learning for the IBM SkillsBuild Cybersecu
 - [Part 2: Network Security](Microcredential_3_System_Network_Security/micro3.2-network-security.md)
 - [Part 3: Design a Secure Network](Microcredential_3_System_Network_Security/micro3.3-design-secure-network.md)
 
+## Microcredential 4: Cloud Security
+- [Part 1: Cloud Computing & Virtualization](Microcredential_4_Cloud_Security/micro4.1-cloud-computing-virtualization.md)
+- [Part 2: Securing Cloud Infrastructure](Microcredential_4_Cloud_Security/micro4.2-securing-cloud-infrastructure.md)
+- [Part 3: Propose Cloud Services & Security Measures](Microcredential_4_Cloud_Security/micro4.3-propose-cloud-services-security.md)
+
+## Microcredential 5: Security Operations and Management
+- [Part 1: Security Operations](Microcredential_5_Security_Operations_Management/micro5.1-security-operations.md)
+- [Part 2: Security Monitoring](Microcredential_5_Security_Operations_Management/micro5.2-security-monitoring.md)
+- [Part 3: Assemble SOC Team & Monitoring](Microcredential_5_Security_Operations_Management/micro5.3-assemble-soc-team-monitoring.md)
+
+## Microcredential 6: Incident Response and Forensics
+- [Part 1: Incident Response](Microcredential_6_Incident_Response_Forensics/micro6.1-incident-response.md)
+- [Part 2: Digital System Forensics](Microcredential_6_Incident_Response_Forensics/micro6.2-digital-system-forensics.md)
+- [Part 3: Investigate an Incident](Microcredential_6_Incident_Response_Forensics/micro6.3-investigate-incident-forensics.md)
+
+## Final Credential: IBM SkillsBuild Cybersecurity Certificate
+- [Emerging Threats & Future Cybersecurity Tech](IBM_SkillsBuild_Cybersecurity_Certificate/emerging-threats-future-technologies.md)
+- [Final Assessment](IBM_SkillsBuild_Cybersecurity_Certificate/final-assessment.md)
+- [Final Capstone Project Part 1](IBM_SkillsBuild_Cybersecurity_Certificate/final-capstone-part1.md)
+- [Final Capstone Project Part 2](IBM_SkillsBuild_Cybersecurity_Certificate/final-capstone-part2.md)
+
 
 
 ### How to Navigate
