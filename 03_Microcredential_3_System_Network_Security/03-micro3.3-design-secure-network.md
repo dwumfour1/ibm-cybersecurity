@@ -20,7 +20,7 @@ This project builds on the knowledge and skills from:
 ---
 
 ## Learning Objectives
-By the end of this module, you should be able to:
+By the end of this module, I am able to:
 
 1. Secure a host operating system  
 2. Update firmware on devices  
