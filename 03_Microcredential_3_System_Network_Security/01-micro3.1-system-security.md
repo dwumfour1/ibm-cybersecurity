@@ -12,7 +12,7 @@ You will learn to identify vulnerabilities and implement protections that secure
 ---
 
 ## Learning Objectives
-By the end of this module, you should be able to:
+By the end of this module, I am able to:
 
 1. Update firmware securely  
 2. Secure a host operating system  
