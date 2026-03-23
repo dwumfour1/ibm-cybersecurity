@@ -13,7 +13,7 @@ You will learn to identify threats, implement protections, and design networks w
 ---
 
 ## Learning Objectives
-By the end of this module, you should be able to:
+By the end of this module, I am able to:
 
 1. Classify types of application and service attacks  
 2. Classify types of wireless attacks  
